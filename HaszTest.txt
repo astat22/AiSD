@@ -1,0 +1,9 @@
+public class HaszTest
+{
+    public HaszTest()
+    {
+    }
+    public void main(String args[])
+    {
+    }
+}

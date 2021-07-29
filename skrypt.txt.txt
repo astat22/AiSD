@@ -1,0 +1,1 @@
+'splot "lA.dat" using 1:2:3 title "linearMean" ' gnuplot -p
